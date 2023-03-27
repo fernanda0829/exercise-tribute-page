@@ -1,0 +1,36 @@
+@font-face {
+  font-family: harry;
+  src: url("../fonts/HARRY.TTF");
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2 {
+  font-family: harry, serif;
+}
+
+.container {
+  max-width: 990px;
+  margin: 0 auto;
+  height: auto;
+}
+
+#footer {
+  padding: 50px 0;
+  background: linear-gradient(
+    to right,
+    #a30001 25%,
+    #ffdb00 25% 50%,
+    #2a623d 50% 75%,
+    #222f5b 75% 100%
+  );
+}
+
+#footer .copy {
+  text-align: center;
+  font-size: 18px;
+  color: #1d1d1d;
+}
