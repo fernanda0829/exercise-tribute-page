@@ -77,6 +77,17 @@
   color: #740001;
 }
 
+#main .desc-house .desc-images {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 60px;
+}
+
+#main .desc-house .desc-images img {
+  max-width: 30%;
+  border: 5px solid #740001;
+}
+
 #main .background-2 {
   background-color: #eeba30;
   padding: 60px 0;
