@@ -1,12 +1,12 @@
 #header-house {
-  background-color: #740001;
+  background-color: #1a471a;
   padding: 40px 0 20px 0;
 }
 
 #header-house .head-tittle {
   font-size: 72px;
   letter-spacing: 3px;
-  color: #eeba30;
+  color: #aaa;
   text-align: center;
 }
 
@@ -18,25 +18,25 @@
 
 #header-house .breadcrumb .breadcrumb-item {
   font-size: 14px;
-  color: #4d0001;
+  color: #0e270e;
   padding: 15px;
   text-transform: uppercase;
 }
 
 #header-house .breadcrumb .breadcrumb-item a {
-  color: #4d0001;
+  color: #0e270e;
 }
 
 #header-house .breadcrumb .breadcrumb-item a:hover {
-  color: #eeba30;
-  border-bottom: 1px solid #eeba30;
-  border-left: 1px solid #eeba30;
+  color: #aaa;
+  border-bottom: 1px solid #aaa;
+  border-left: 1px solid #aaa;
   padding: 0 0 5px 5px;
   border-radius: 2px;
 }
 
 #main .background-1 {
-  background-color: #d3a625;
+  background-color: #aaa;
   padding: 60px 0;
 }
 
@@ -44,7 +44,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: 5px solid #a30001;
+  border: 5px solid #2a623d;
   padding: 10px;
 }
 
@@ -74,11 +74,11 @@
 }
 
 #main .desc-house a:hover {
-  color: #740001;
+  color: #1a471a;
 }
 
 #main .background-2 {
-  background-color: #eeba30;
+  background-color: #2a623d;
   padding: 60px 0;
 }
 
@@ -87,6 +87,7 @@
   font-size: 36px;
   letter-spacing: 1px;
   margin-bottom: 30px;
+  color: #1d1d1d;
 }
 
 #main .curiosities .curiosities-list-item {
@@ -99,7 +100,7 @@
 
 #main .curiosities .curiosities-list-item i {
   margin-right: 15px;
-  color: #a30001;
+  color: #aaa;
 }
 
 #main .background-3 {
@@ -127,8 +128,8 @@
 }
 
 #main .call-action a:hover {
-  background-color: #740001;
-  color: #eeba30;
+  background-color: #1a471a;
+  color: #aaa;
   padding: 15px 35px;
 }
 
