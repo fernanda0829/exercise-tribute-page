@@ -18,27 +18,27 @@
 
 #header-house .submenu .submenu-item {
   font-size: 14px;
-  color: #0e270e;
+  color: #aaa;
   padding: 15px;
   text-transform: uppercase;
 }
 
 #header-house .submenu .submenu-item a {
-  color: #0e270e;
+  color: #aaa;
 }
 
 #header-house .submenu .submenu-item #home:hover {
-  color: #aaa;
-  border-bottom: 1px solid #aaa;
-  border-left: 1px solid #aaa;
+  color: #4bb56e;
+  border-bottom: 1px solid #4bb56e;
+  border-left: 1px solid #4bb56e;
   padding: 0 0 5px 5px;
   border-radius: 2px;
 }
 
 #header-house .submenu .submenu-item .page:hover {
-  color: #aaa;
-  border-bottom: 1px solid #aaa;
-  border-right: 1px solid #aaa;
+  color: #4bb56e;
+  border-bottom: 1px solid #4bb56e;
+  border-right: 1px solid #4bb56e;
   padding: 0px 5px 0px 5px;
   border-radius: 2px;
 }
@@ -106,7 +106,7 @@
   font-size: 36px;
   letter-spacing: 1px;
   margin-bottom: 30px;
-  color: #1d1d1d;
+  color: #aaa;
 }
 
 #main .curiosities .curiosities-list-item {
