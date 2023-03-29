@@ -18,3 +18,20 @@ h3 {
   margin: 0 auto;
   height: auto;
 }
+
+#footer {
+  padding: 50px 0;
+  background: linear-gradient(
+    to right,
+    #a30001 25%,
+    #ffdb00 25% 50%,
+    #2a623d 50% 75%,
+    #222f5b 75% 100%
+  );
+}
+
+#footer .copy {
+  text-align: center;
+  font-size: 18px;
+  color: #030303;
+}

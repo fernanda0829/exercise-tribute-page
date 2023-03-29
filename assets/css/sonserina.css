@@ -31,8 +31,7 @@
   color: #4bb56e;
   border-bottom: 1px solid #4bb56e;
   border-left: 1px solid #4bb56e;
-  padding: 0 0 5px 5px;
-  border-radius: 2px;
+  padding: 0px 5px 0px 5px;
 }
 
 #header-house .submenu .submenu-item .page:hover {
@@ -40,11 +39,10 @@
   border-bottom: 1px solid #4bb56e;
   border-right: 1px solid #4bb56e;
   padding: 0px 5px 0px 5px;
-  border-radius: 2px;
 }
 
 #main .background-1 {
-  background-color: #aaa;
+  background-color: #f2f2f2;
   padding: 60px 0;
 }
 
@@ -106,20 +104,19 @@
   font-size: 36px;
   letter-spacing: 1px;
   margin-bottom: 30px;
-  color: #aaa;
+  color: #f2f2f2;
 }
 
 #main .curiosities .curiosities-list-item {
   display: flex;
-  justify-content: center;
   align-items: baseline;
-  font-size: 16px;
   line-height: 24px;
+  color: #f2f2f2;
 }
 
 #main .curiosities .curiosities-list-item i {
   margin-right: 15px;
-  color: #aaa;
+  color: #f2f2f2;
 }
 
 #main .background-3 {
@@ -150,21 +147,4 @@
   background-color: #1a471a;
   color: #aaa;
   padding: 15px 35px;
-}
-
-#footer {
-  padding: 50px 0;
-  background: linear-gradient(
-    to right,
-    #a30001 25%,
-    #ffdb00 25% 50%,
-    #2a623d 50% 75%,
-    #222f5b 75% 100%
-  );
-}
-
-#footer .copy {
-  text-align: center;
-  font-size: 18px;
-  color: #030303;
 }

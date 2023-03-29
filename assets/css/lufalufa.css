@@ -1,12 +1,12 @@
 #header-house {
-  background-color: #6b6a6a;
+  background-color: #1d1d1d;
   padding: 40px 0 20px 0;
 }
 
 #header-house .head-tittle {
   font-size: 72px;
   letter-spacing: 3px;
-  color: #ffdb00;
+  color: #ffed86;
   text-align: center;
 }
 
@@ -18,33 +18,31 @@
 
 #header-house .submenu .submenu-item {
   font-size: 14px;
-  color: #1d1d1d;
+  color: #ffed86;
   padding: 15px;
   text-transform: uppercase;
 }
 
 #header-house .submenu .submenu-item a {
-  color: #1d1d1d;
+  color: #ffed86;
 }
 
 #header-house .submenu .submenu-item #home:hover {
-  color: #ffdb00;
-  border-bottom: 1px solid #ffdb00;
-  border-left: 1px solid #ffdb00;
-  padding: 0 0 5px 5px;
-  border-radius: 2px;
+  color: #f2f2f2;
+  border-bottom: 1px solid #f2f2f2;
+  border-left: 1px solid #f2f2f2;
+  padding: 0px 5px 0px 5px;
 }
 
 #header-house .submenu .submenu-item .page:hover {
-  color: #ffdb00;
-  border-bottom: 1px solid #ffdb00;
-  border-right: 1px solid #ffdb00;
+  color: #f2f2f2;
+  border-bottom: 1px solid #f2f2f2;
+  border-right: 1px solid #f2f2f2;
   padding: 0px 5px 0px 5px;
-  border-radius: 2px;
 }
 
 #main .background-1 {
-  background-color: #d0b500;
+  background-color: #f2f2f2;
   padding: 60px 0;
 }
 
@@ -52,7 +50,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: 5px solid #6b6a6a;
+  border: 5px solid #ffdb00;
   padding: 10px;
 }
 
@@ -82,7 +80,7 @@
 }
 
 #main .desc-house a:hover {
-  color: #6b6a6a;
+  color: #aaa;
 }
 
 #main .desc-house .desc-images {
@@ -106,21 +104,19 @@
   font-size: 36px;
   letter-spacing: 1px;
   margin-bottom: 30px;
-  color: #ffed86;
+  color: #f2f2f2;
 }
 
 #main .curiosities .curiosities-list-item {
   display: flex;
-  justify-content: center;
   align-items: baseline;
-  font-size: 16px;
   line-height: 24px;
-  color: #6b6a6a;
+  color: #f2f2f2;
 }
 
 #main .curiosities .curiosities-list-item i {
   margin-right: 15px;
-  color: #ffed86;
+  color: #f2f2f2;
 }
 
 #main .background-3 {
@@ -151,21 +147,4 @@
   background-color: #ffdb00;
   color: #6b6a6a;
   padding: 15px 35px;
-}
-
-#footer {
-  padding: 50px 0;
-  background: linear-gradient(
-    to right,
-    #a30001 25%,
-    #ffdb00 25% 50%,
-    #2a623d 50% 75%,
-    #222f5b 75% 100%
-  );
-}
-
-#footer .copy {
-  text-align: center;
-  font-size: 18px;
-  color: #030303;
 }
