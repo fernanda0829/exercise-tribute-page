@@ -43,29 +43,32 @@
   text-transform: uppercase;
 }
 
-#header .menu .menu-list .menu-list-item:hover {
-  background-color: #fff;
+#header .menu .menu-list .menu-list-item.house1:hover {
+  background-color: #a30001;
+  color: #fff;
   box-shadow: 1px 1px 5px rgba(92, 92, 92, 0.5);
+  transition: 0.5s;
 }
 
-#header .menu .menu-list .menu-list-item .grifnoria:hover {
-  color: #a30001;
-  text-transform: uppercase;
+#header .menu .menu-list .menu-list-item.house2:hover {
+  background-color: #2a623d;
+  color: #fff;
+  box-shadow: 1px 1px 5px rgba(92, 92, 92, 0.5);
+  transition: 0.5s;
 }
 
-#header .menu .menu-list .menu-list-item .sonserina:hover {
-  color: #2a623d;
-  text-transform: uppercase;
+#header .menu .menu-list .menu-list-item.house3:hover {
+  background-color: #222f5b;
+  color: #fff;
+  box-shadow: 1px 1px 5px rgba(92, 92, 92, 0.5);
+  transition: 0.5s;
 }
 
-#header .menu .menu-list .menu-list-item .corvinal:hover {
-  color: #222f5b;
-  text-transform: uppercase;
-}
-
-#header .menu .menu-list .menu-list-item .lufa-lufa:hover {
-  color: #ffdb00;
-  text-transform: uppercase;
+#header .menu .menu-list .menu-list-item.house4:hover {
+  background-color: #d9bc01;
+  color: #fff;
+  box-shadow: 1px 1px 5px rgba(92, 92, 92, 0.5);
+  transition: 0.5s;
 }
 
 #banner .banner-hogwarts {

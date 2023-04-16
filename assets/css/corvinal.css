@@ -23,8 +23,18 @@
   text-transform: uppercase;
 }
 
-#header-house .submenu .submenu-item a {
+#header-house .submenu .submenu-item #home {
   color: #946b2d;
+  border-bottom: 1px solid #0e1a40;
+  border-left: 1px solid #0e1a40;
+  padding: 0px 5px 0px 5px;
+}
+
+#header-house .submenu .submenu-item .page {
+  color: #946b2d;
+  border-bottom: 1px solid #0e1a40;
+  border-right: 1px solid #0e1a40;
+  padding: 0px 5px 0px 5px;
 }
 
 #header-house .submenu .submenu-item #home:hover {
